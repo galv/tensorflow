@@ -33,6 +33,7 @@ transitive_hdrs(
         "//tensorflow/core:lib",
         "//tensorflow/core:protos_all_cc",
         "//tensorflow/core:stream_executor",
+        "//tensorflow/core/kernels:dataset",
         "//third_party/eigen3",
     ],
 )
